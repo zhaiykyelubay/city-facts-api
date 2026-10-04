@@ -1,7 +1,9 @@
 # City Facts API
+## What it does
 
-A small HTTP service that returns information about cities.
-
+City Facts API is a small HTTP service that provides information about cities.
+It supports listing cities, checking service health, and retrieving information
+about a specific city by name.
 ## Requirements
 
 * Java 21
