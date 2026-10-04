@@ -1,3 +1,5 @@
+package com.zhaiyk.cityfactsapi;
+
 import lombok.Getter;
 import lombok.Setter;
 
